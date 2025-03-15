@@ -12,7 +12,7 @@ function solicitarCredencial() {
 
 function validarCredencial(credencialesIngresadas) {
     if (credencialesIngresadas.username === Credenciales.username && credencialesIngresadas.password === Credenciales.password) {
-        alert('Credenciales correctas');
+        confirm('Credenciales correctas');
     } else {
         alert('Credenciales incorrectas');
     }

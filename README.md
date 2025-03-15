@@ -1,1 +1,1 @@
-# Rayo-project
+# 1er entregable, el mismo tiene un funcionalidad de login utilizando, variables declaradas, functions y booleanos.
